@@ -1,6 +1,6 @@
-## TEMPLATE OK
+## Choisir un template
 
-Si je vois ce texte = le template fonctionne.
+Allez dans l'onglet Preview, puis cliquer:
 
-- [ ] Test 1
-- [ ] Test 2
+.NET : ?expand=1&template=dotnet.md
+Cobol : ?expand=1&template=cobol.md
