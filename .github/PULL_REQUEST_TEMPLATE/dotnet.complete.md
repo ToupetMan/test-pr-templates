@@ -1,7 +1,7 @@
 # Revue de code .NET
 
 ## Général
-- [ ] Éliminer le code mort ou inutilisé - Si le dev travail dessus et tombe sur du code mort oui ok de le retirer
+- [ ] Éliminer le code inutilisé - S'il a été écrit dans le cadre du travail en cours
 - [ ] Éviter Microsoft.VisualBasic si non requis                           
 - [ ] Un contrat doit être totalement indépendant
 - [ ] Code et Méthode lisible et bien structuré
