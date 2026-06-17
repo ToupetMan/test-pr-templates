@@ -2,7 +2,7 @@
 
 ## Général
 
-- [ ] Éliminer le code mort ou inutilisé - Si le dev travail dessus et tombe sur du code mort oui ok de le retirer
+- [ ] Éliminer le code inutilisé - S'il a été écrit dans le cadre du travail en cours
 - [ ] Code lisible et bien structuré
 - [ ] Pas de duplication de code
 - [ ] Valider que la requête SQL est bien conforme aux spécifications du requis. Requêtes SQL paramétrées
